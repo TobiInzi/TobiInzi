@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:08090d,55:111827,100:43c7ff&text=Tobias%20Inzinger&fontColor=f4f7ef&fontSize=34&desc=Computer%20Science%20student%20at%20TUM&descAlignY=72&descSize=16" alt="Tobias Inzinger - Computer Science student at TUM" />
+<img src="./assets/profile-card.svg" alt="Tobias Inzinger - Computer Science student at TUM" width="100%" />
 
 <br />
 
-[![Website](https://img.shields.io/badge/tobiinzi.com-08090d?style=flat-square&logo=firefox-browser&logoColor=7dffd1)](https://tobiinzi.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-08090d?style=flat-square&logo=linkedin&logoColor=43c7ff)](https://www.linkedin.com/in/tobiasinzinger/)
-[![Email](https://img.shields.io/badge/Email-08090d?style=flat-square&logo=gmail&logoColor=ffb547)](mailto:inzinger.tobias@gmail.com)
-[![Steam](https://img.shields.io/badge/Steam-08090d?style=flat-square&logo=steam&logoColor=f4f7ef)](https://steamcommunity.com/id/tobiinzi)
-
-`discord: tobiinzi`
+[![Website](https://img.shields.io/badge/tobiinzi.com-101522?style=for-the-badge&logo=firefox-browser&logoColor=7dffd1&labelColor=08090d)](https://tobiinzi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-101522?style=for-the-badge&logo=linkedin&logoColor=43c7ff&labelColor=08090d)](https://www.linkedin.com/in/tobiasinzinger/)
+[![Email](https://img.shields.io/badge/Email-101522?style=for-the-badge&logo=gmail&logoColor=ffb547&labelColor=08090d)](mailto:inzinger.tobias@gmail.com)
+[![Steam](https://img.shields.io/badge/Steam-101522?style=for-the-badge&logo=steam&logoColor=f4f7ef&labelColor=08090d)](https://steamcommunity.com/id/tobiinzi)
+![Discord](https://img.shields.io/badge/tobiinzi-101522?style=for-the-badge&logo=discord&logoColor=7dffd1&label=Discord&labelColor=08090d)
 
 </div>
