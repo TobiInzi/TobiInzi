@@ -7,7 +7,9 @@
 └──────────────────────────────────────────────┘
 </pre>
 
-<samp>quiet mode / signal low / build pending</samp>
+<a href="https://tobiinzi.com">
+  <img src="https://img.shields.io/badge/tobiinzi.com-7dffd1?style=for-the-badge&logo=firefox-browser&logoColor=08090d&labelColor=7dffd1&color=111827" alt="tobiinzi.com" />
+</a>
 
 <br />
 <br />
@@ -29,8 +31,6 @@
 <br />
 
 <samp>
-  <a href="https://tobiinzi.com">tobiinzi.com</a>
-  <br />
   discord: tobiinzi
 </samp>
 
