@@ -7,13 +7,7 @@
 └──────────────────────────────────────────────┘
 </pre>
 
-<a href="https://tobiinzi.com"><img src="./assets/website-portal.svg" alt="tobiinzi.com website portal" /></a>
-
-<a href="https://tobiinzi.com"><img src="./assets/website-constellation.svg" alt="tobiinzi.com constellation link" /></a>
-
-<a href="https://tobiinzi.com"><img src="./assets/website-command.svg" alt="tobiinzi.com command line link" /></a>
-
-<a href="https://tobiinzi.com"><img src="./assets/website-chip.svg" alt="tobiinzi.com signal chip link" /></a>
+<a href="https://tobiinzi.com"><img src="https://img.shields.io/badge/tobiinzi.com-7dffd1?style=for-the-badge&logo=firefox-browser&logoColor=08090d&labelColor=7dffd1&color=111827" alt="tobiinzi.com" /></a>
 
 <br />
 <br />
