@@ -18,7 +18,6 @@
 <a href="https://steamcommunity.com/id/tobiinzi"><img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
 
 <br />
-<br />
 
 <samp>
   discord: tobiinzi
