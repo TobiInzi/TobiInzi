@@ -1,0 +1,31 @@
+<svg width="760" height="118" viewBox="0 0 760 118" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">tobiinzi.com</title>
+  <desc id="desc">Website link option: portal</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="760" y2="118" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08090d"/>
+      <stop offset="0.48" stop-color="#101522"/>
+      <stop offset="1" stop-color="#071d22"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="20" y1="16" x2="740" y2="102" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7dffd1"/>
+      <stop offset="0.52" stop-color="#43c7ff"/>
+      <stop offset="1" stop-color="#ffb547"/>
+    </linearGradient>
+    <radialGradient id="pulse" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(380 59) scale(330 90)">
+      <stop stop-color="#43c7ff" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#43c7ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="760" height="118" rx="18" fill="url(#bg)"/>
+  <rect width="760" height="118" rx="18" fill="url(#pulse)"/>
+  <rect x="18" y="16" width="724" height="86" rx="14" stroke="url(#edge)" stroke-width="1.5"/>
+  <path d="M50 59H245" stroke="#7dffd1" stroke-opacity="0.28"/>
+  <path d="M515 59H710" stroke="#ffb547" stroke-opacity="0.28"/>
+  <circle cx="380" cy="59" r="38" stroke="#43c7ff" stroke-opacity="0.58"/>
+  <circle cx="380" cy="59" r="25" stroke="#7dffd1" stroke-opacity="0.46"/>
+  <circle cx="380" cy="59" r="6" fill="#ffb547"/>
+  <text x="380" y="66" text-anchor="middle" fill="#f4f7ef" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" font-weight="700">tobiinzi.com</text>
+  <text x="60" y="36" fill="#7dffd1" fill-opacity="0.72" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">WEB PORTAL</text>
+  <text x="613" y="88" fill="#f4f7ef" fill-opacity="0.45" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">click to enter</text>
+</svg>

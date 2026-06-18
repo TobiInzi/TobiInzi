@@ -7,27 +7,13 @@
 └──────────────────────────────────────────────┘
 </pre>
 
-<a href="https://tobiinzi.com"><img src="https://img.shields.io/badge/tobiinzi.com-7dffd1?style=for-the-badge&logo=firefox-browser&logoColor=08090d&labelColor=7dffd1&color=111827" alt="tobiinzi.com" /></a>
+<a href="https://tobiinzi.com"><img src="./assets/website-portal.svg" alt="tobiinzi.com website portal" /></a>
 
-<br />
+<a href="https://tobiinzi.com"><img src="./assets/website-constellation.svg" alt="tobiinzi.com constellation link" /></a>
 
-<samp>$ open <a href="https://tobiinzi.com">https://tobiinzi.com</a></samp>
+<a href="https://tobiinzi.com"><img src="./assets/website-command.svg" alt="tobiinzi.com command line link" /></a>
 
-<pre>
-┌─ web ────────────────────────────────────────┐
-│              https://tobiinzi.com            │
-└──────────────────────────────────────────────┘
-</pre>
-
-<samp>signal: <a href="https://tobiinzi.com">tobiinzi.com</a> / status: online</samp>
-
-<br />
-
-<a href="https://tobiinzi.com"><img src="https://img.shields.io/badge/enter-website-111827?style=flat-square&logo=gnubash&logoColor=7dffd1&labelColor=08090d" alt="enter website" /></a>
-
-<br />
-
-<samp>[ <a href="https://tobiinzi.com">tobiinzi.com</a> ]</samp>
+<a href="https://tobiinzi.com"><img src="./assets/website-chip.svg" alt="tobiinzi.com signal chip link" /></a>
 
 <br />
 <br />

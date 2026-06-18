@@ -1,0 +1,14 @@
+<svg width="760" height="118" viewBox="0 0 760 118" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">tobiinzi.com</title>
+  <desc id="desc">Website link option: signal chip</desc>
+  <rect width="760" height="118" rx="18" fill="#08090d"/>
+  <rect x="276" y="22" width="208" height="74" rx="16" fill="#101522" stroke="#7dffd1" stroke-opacity="0.78"/>
+  <path d="M276 38H230M276 59H196M276 80H230M484 38H530M484 59H564M484 80H530" stroke="#43c7ff" stroke-opacity="0.42"/>
+  <text x="380" y="66" text-anchor="middle" fill="#f4f7ef" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" font-weight="800">tobiinzi.com</text>
+  <path d="M72 76C132 26 188 88 246 48" stroke="#ffb547" stroke-opacity="0.42" stroke-width="2"/>
+  <path d="M514 70C580 30 636 90 698 42" stroke="#7dffd1" stroke-opacity="0.38" stroke-width="2"/>
+  <circle cx="72" cy="76" r="4" fill="#ffb547"/>
+  <circle cx="698" cy="42" r="4" fill="#7dffd1"/>
+  <text x="54" y="33" fill="#f4f7ef" fill-opacity="0.48" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">ROUTE</text>
+  <text x="652" y="94" fill="#f4f7ef" fill-opacity="0.48" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">LIVE</text>
+</svg>
